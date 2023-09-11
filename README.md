@@ -15,7 +15,7 @@ specific limit of words and characters.
 > - Select your code file in the code tree, which will open it up in a new VSCode tab.
 > - Drag your assessment code files over to the second column. 
 > - Great work! You can now see instructions and code at the same time. 
-> - Questions about using VSCode? Please see our support resources [here](https://www.coursera.org/learn/programming-in-python/supplement/2IEyt/visual-studio-code-on-coursera).
+
 > #### **To run your Python code**
 > - Select your Python file in the Visual Studio Code file tree 
 > - You can right click the file and select "Run Python File in Terminal" 
@@ -80,13 +80,3 @@ The result should now show one passed and one failed test.
 > - Not passing the variable names correctly
 > 
 <br>
-
-
-## Final Step: Let's submit your code!
-Nice work! To complete this assessment:
-- Save your file through File -> Save 
-- Select "Submit Assignment" in your Lab toolbar. 
-
-Your code will be autograded and return feedback shortly on the "Grades" tab.  
-You can also see your score in your Programming Assignment "My Submission" tab.
-<br> <br> 
